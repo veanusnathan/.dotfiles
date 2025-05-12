@@ -10,3 +10,6 @@ wget -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/do
 && rm 0xProto.zip \
 && fc-cache -fv
 ```
+
+then change your terminal fonts
+i'm using default xfce-terminal so thats located in "Edit > Preferenced > Appearance" 

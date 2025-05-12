@@ -6,6 +6,7 @@ or copy this into your terminal
 
 ```
 wget -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip \
+&& cd ~/.local/share/fonts \
 && unzip FiraCode.zip \
 && rm FiraCode.zip \
 && fc-cache -fv
